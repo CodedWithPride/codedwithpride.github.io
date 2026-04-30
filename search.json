@@ -56,11 +56,11 @@
     "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 30, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 27, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "people/alan-turing/index.html",
-    "href": "people/alan-turing/index.html",
-    "title": "Alan Turing",
+    "objectID": "people/sophie-wilson/index.html",
+    "href": "people/sophie-wilson/index.html",
+    "title": "Sophie Wilson",
     "section": "",
-    "text": "Considered in many ways to be the father of modern computing, Turing was a pioneering mathematician and computer scientist who introduced the ‘Turing machine’, formalising the concepts of algorithms and computation. His work as part of the code breaking team at Bletchley Park played a crucial role in deciphering German communications and saving countless allied lives.\nIn 1952, Turing was charged with ‘gross indecency’ under Section 11 of the Criminal Law Amendment Act 1885, and forced to choose between imprisonment and probation under the condition that he undergo ‘chemical castration’. He chose probation, was stripped of his security clearance, and barred from working with GCHQ.\nTuring died of cyanide poisoning in 1954, and his death was deemed a suicide. Though this theory has come under considerable doubt, there is no question that Turing was mistreated by the very state he had admirably served. In recognition of this, the UK government passed the ‘Alan Turing law’ in 2017 to retrospectively pardon those who had been persecuted under homophobic laws.\n\n\n \n\n\n\n\n\nAlan Turing\n\n\nPhoto credit, available under public domain"
+    "text": "Sophie Wilson (born June 1957) is a British computer scientist best known for her central role in creating the BBC Micro computer, and designing the original ARM processor architecture.\nWhile working at Acorn Computers in the late 1970s and 1980s, she helped to develop BBC BASIC. Her work on ARM began as a project to build a fast, efficient processor for Acorn’s computers, but ARM later became the foundation for billions of devices, especially smartphones, tablets, embedded systems, and low-power computers.\nShe has received major recognition for her contributions, including being elected a Fellow of the Royal Society. Her career helped shape both personal computing education and modern mobile computing.\nWilson’s success challenges the idea that LGBTQ+ people, and especially trans people, are marginal to science and engineering. Wilson’s career shows that a trans woman was central to one of the most important technological developments of the late twentieth century.\n\n\n \n\n\n\n\n\nSophie Wilson\n\n\nPhoto credit, available under CC BY 2.0"
   },
   {
     "objectID": "people/lynn-conway/index.html",
@@ -70,11 +70,18 @@
     "text": "Lynn Ann Conway was an American computer scientist and electrical engineer (1938–2024) whose technical career included early work at IBM, leadership at Xerox PARC and the University of Michigan. She is highly recognised for her work on generalized dynamic instruction handling, an important precursor to out-of-order execution. With Carver Mead she coauthored “Introduction to VLSI Systems” and helped create the “Mead–Conway Very-Large-Scale-Integration (VLSI) methodology” that democratized chip design and shaped modern microelectronics.\nConway’s faced immense workplace discrimination after revealing her intent to gender transition, which resulted to her being dismissed from IBM in 1968. This had effects on how and when she could claim credit for her work, leading to her having to live much of her professional life quietly under a different identity before coming out publicly in 1999 and documenting her story and resources for others. This experience shaped her later advocacy for transgender people and increased visibility for trans professionals in STEM.\nHer technical and social legacy persists even after her death in 2024: The Mead–Conway methods underpin electronic design automation and VLSI education worldwide. Her public advocacy, mentorship resources and the later formal apology from IBM have contributed to broader recognition of transgender scientists and institutional reckonings with past discrimination. Many engineers and educators trace current chip-design practices and more inclusive cultures in computing back to her influence.\n\n\n \n\n\n\n\n\nLynn Conway\n\n\nPhoto credit, available under public domain"
   },
   {
+    "objectID": "people/alan-turing/index.html",
+    "href": "people/alan-turing/index.html",
+    "title": "Alan Turing",
+    "section": "",
+    "text": "Considered in many ways to be the father of modern computing, Turing was a pioneering mathematician and computer scientist who introduced the ‘Turing machine’, formalising the concepts of algorithms and computation. His work as part of the code breaking team at Bletchley Park played a crucial role in deciphering German communications and saving countless allied lives.\nIn 1952, Turing was charged with ‘gross indecency’ under Section 11 of the Criminal Law Amendment Act 1885, and forced to choose between imprisonment and probation under the condition that he undergo ‘chemical castration’. He chose probation, was stripped of his security clearance, and barred from working with GCHQ.\nTuring died of cyanide poisoning in 1954, and his death was deemed a suicide. Though this theory has come under considerable doubt, there is no question that Turing was mistreated by the very state he had admirably served. In recognition of this, the UK government passed the ‘Alan Turing law’ in 2017 to retrospectively pardon those who had been persecuted under homophobic laws.\n\n\n \n\n\n\n\n\nAlan Turing\n\n\nPhoto credit, available under public domain"
+  },
+  {
     "objectID": "people.html",
     "href": "people.html",
     "title": "People",
     "section": "",
-    "text": "Lynn Ann Conway\n\n\n\n\n\n\n\n\nApr 30, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nAlan Turing\n\n\nThe father of modern computing\n\n\n\n\n\nApr 30, 2026\n\n\n\n\n\nNo matching items"
+    "text": "Lynn Ann Conway\n\n\n\n\n\n\n\n\nApr 30, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nAlan Turing\n\n\nThe father of modern computing\n\n\n\n\n\nApr 30, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nSophie Wilson\n\n\nCo-designer for the original ARM processor architecture\n\n\n\n\n\nApr 30, 2026\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "communities.html",

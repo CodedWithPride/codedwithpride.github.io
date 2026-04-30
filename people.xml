@@ -87,5 +87,44 @@
   <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
   <media:content url="https://codedwithpride.github.io/people/alan-turing/alan_turing.jpg" medium="image" type="image/jpeg"/>
 </item>
+<item>
+  <title>Sophie Wilson</title>
+  <link>https://codedwithpride.github.io/people/sophie-wilson/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="quarto-layout-panel" data-layout="[ 60, -5, 40 ]">
+<div class="quarto-layout-row">
+<div id="first-column" class="quarto-layout-cell" style="flex-basis: 57.1%;justify-content: flex-start;">
+<p>Sophie Wilson (born June 1957) is a British computer scientist best known for her central role in creating the BBC Micro computer, and designing the original ARM processor architecture.</p>
+<p>While working at Acorn Computers in the late 1970s and 1980s, she helped to develop BBC BASIC. Her work on ARM began as a project to build a fast, efficient processor for Acorn’s computers, but ARM later became the foundation for billions of devices, especially smartphones, tablets, embedded systems, and low-power computers.</p>
+<p>She has received major recognition for her contributions, including being elected a Fellow of the Royal Society. Her career helped shape both personal computing education and modern mobile computing.</p>
+<p>Wilson’s success challenges the idea that LGBTQ+ people, and especially trans people, are marginal to science and engineering. Wilson’s career shows that a trans woman was central to one of the most important technological developments of the late twentieth century.</p>
+</div>
+<div class="quarto-figure-spacer quarto-layout-cell" style="flex-basis: 4.8%;justify-content: flex-start;">
+<p>&nbsp;</p>
+</div>
+<div id="second-column" class="quarto-layout-cell" style="flex-basis: 38.1%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://codedwithpride.github.io/people/sophie-wilson/sophie_wilson.jpg" class="img-fluid figure-img"></p>
+<figcaption>Sophie Wilson</figcaption>
+</figure>
+</div>
+<p><a href="https://en.wikipedia.org/wiki/Sophie_Wilson#/media/File:Sophie_Wilson.jpg">Photo credit</a>, available under CC BY 2.0</p>
+</div>
+</div>
+</div>
+
+
+
+ ]]></description>
+  <guid>https://codedwithpride.github.io/people/sophie-wilson/</guid>
+  <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://codedwithpride.github.io/people/sophie-wilson/sophie_wilson.jpg" medium="image" type="image/jpeg"/>
+</item>
 </channel>
 </rss>
