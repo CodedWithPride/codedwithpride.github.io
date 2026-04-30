@@ -1,52 +1,73 @@
 [
   {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Resources",
+    "objectID": "pioneers.html",
+    "href": "pioneers.html",
+    "title": "Pioneers",
     "section": "",
-    "text": "Pronoun Guide"
+    "text": "Lynn Ann Conway\n\n\nThe mother of modern chip-circuit design practices\n\n\n\n\n\nApr 30, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nAlan Turing\n\n\nThe father of modern computing\n\n\n\n\n\nApr 30, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nSophie Wilson\n\n\nCo-designer for the original ARM processor architecture\n\n\n\n\n\nApr 30, 2026\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "resources.html#pronoun-guide",
-    "href": "resources.html#pronoun-guide",
-    "title": "Resources",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome queer coders!",
     "section": "",
-    "text": "Pronoun Guide"
+    "text": "Welcome queer coders!"
   },
   {
-    "objectID": "resources.html#fun-links",
-    "href": "resources.html#fun-links",
-    "title": "Resources",
-    "section": "Fun links",
-    "text": "Fun links\nHow to customise your R welcome message with the pride flag\nHow to create a pride flag in your terminal prompt"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "posts/hello-world/index.html",
+    "href": "posts/hello-world/index.html",
+    "title": "Hello World!",
     "section": "",
-    "text": "Started as a hack-day project at the Sofware Sustainability Institute Collaboration Workshop 2026.\nThis resource was created as a welcoming entry to coding and research software engineering where everyone is welcome.\nWe want to empower community, collaboration, and networking."
+    "text": "Welcome to CodedWithPride! This site was envisioned as a place to celebrate the outstanding contributions of LGBTQ+ individuals in the world of coding and technology, and to provide a platform for sharing news, resources, and stories about the people who make it all possible. Queer coders have been here from the start, and continue to make invaluable contributions. I hope this site can help to raise awareness of their work and inspire the next generation to start coding!\nThis project started at the Software Sustainability Institute’s Collaborations Workshop 2026, where I had the opportunity to pitch the idea for the hack day. The response was overwhelmingly positive, winning first prize from the ideas generation session, and I was thrilled to see so many people excited about the project."
   },
   {
-    "objectID": "about.html#a-landing-page-for-lgbtqia-people-interested-in-code-and-research-software-engineering",
-    "href": "about.html#a-landing-page-for-lgbtqia-people-interested-in-code-and-research-software-engineering",
-    "title": "About",
+    "objectID": "badges.html",
+    "href": "badges.html",
+    "title": "Badges",
     "section": "",
-    "text": "Started as a hack-day project at the Sofware Sustainability Institute Collaboration Workshop 2026.\nThis resource was created as a welcoming entry to coding and research software engineering where everyone is welcome.\nWe want to empower community, collaboration, and networking."
+    "text": "The project has created images for reuse by the community. These can be downloaded as either PNG or SVG files."
   },
   {
-    "objectID": "about.html#codes-of-conduct-and-contribution-guide",
-    "href": "about.html#codes-of-conduct-and-contribution-guide",
-    "title": "About",
-    "section": "Codes of Conduct and Contribution guide",
-    "text": "Codes of Conduct and Contribution guide\nCode of conduct\nContributing Guide"
+    "objectID": "badges.html#queer-coded",
+    "href": "badges.html#queer-coded",
+    "title": "Badges",
+    "section": "Queer Coded",
+    "text": "Queer Coded\nUse this image to indicate that your project has been developed by members of the LGBTQ+ community.\n\n\n\n\n\n\nQueer Coded - PNG\n\n\n\n\n \n\n\n\n\n\nQueer Coded - SVG"
   },
   {
-    "objectID": "links.html",
-    "href": "links.html",
-    "title": "Helpful and fun Links! In no particular order right now",
+    "objectID": "badges.html#coded-with-pride",
+    "href": "badges.html#coded-with-pride",
+    "title": "Badges",
+    "section": "Coded With Pride",
+    "text": "Coded With Pride\nUse this image to demonstrate support for the Coded With Pride project.\n\n\n\n\n\n\nCoded with Pride - PNG\n\n\n\n\n \n\n\n\n\n\nCoded with Pride - SVG"
+  },
+  {
+    "objectID": "pioneers/sophie-wilson/index.html",
+    "href": "pioneers/sophie-wilson/index.html",
+    "title": "Sophie Wilson",
     "section": "",
-    "text": "Helpful and fun Links! In no particular order right now\nHow to customise your R welcome message with the pride flag\nHow to create a pride flag in your terminal prompt\nPronoun Guide\nCode of conduct\nContributing Guide"
+    "text": "Sophie Wilson (born June 1957) is a British computer scientist best known for her central role in creating the BBC Micro computer, and designing the original ARM processor architecture.\nWhile working at Acorn Computers in the late 1970s and 1980s, she helped to develop BBC BASIC. Her work on ARM began as a project to build a fast, efficient processor for Acorn’s computers, but ARM later became the foundation for billions of devices, especially smartphones, tablets, embedded systems, and low-power computers.\nShe has received major recognition for her contributions, including being elected a Fellow of the Royal Society. Her career helped shape both personal computing education and modern mobile computing.\nWilson’s success challenges the idea that LGBTQ+ people, and especially trans people, are marginal to science and engineering. Wilson’s career shows that a trans woman was central to one of the most important technological developments of the late twentieth century.\n\n\n \n\n\n\n\n\nSophie Wilson\n\n\nPhoto credit, available under CC BY 2.0"
+  },
+  {
+    "objectID": "pioneers/lynn-conway/index.html",
+    "href": "pioneers/lynn-conway/index.html",
+    "title": "Lynn Ann Conway",
+    "section": "",
+    "text": "Lynn Ann Conway was an American computer scientist and electrical engineer (1938–2024) whose technical career included early work at IBM, the University of Michigan and leadership at Xerox PARC. She is highly recognised for her work on generalized dynamic instruction handling, an important precursor to out-of-order execution. With Carver Mead she coauthored “Introduction to VLSI Systems” and helped create the “Mead–Conway Very-Large-Scale-Integration (VLSI) methodology” which democratized chip design and shaped modern microelectronics.\nConway’s faced immense workplace discrimination after revealing her intent to gender transition, which resulted to her being dismissed from IBM in 1968. This had effects on how and when she could claim credit for her work, leading to her having to live much of her professional life quietly under a different identity before coming out publicly in 1999 and documenting her story and resources for others. This experience shaped her later advocacy for transgender people and increased visibility for trans professionals in STEM.\nHer technical and social legacy persists even after her death in 2024: The Mead–Conway methods underpin electronic design automation and VLSI education worldwide. Her public advocacy, mentorship resources and the later formal apology from IBM have contributed to broader recognition of transgender scientists and institutional reckonings with past discrimination. Many engineers and educators trace current chip-design practices and more inclusive cultures in computing back to her influence.\n\n\n \n\n\n\n\n\nLynn Conway\n\n\nPhoto credit, available under public domain"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Posts",
+    "section": "",
+    "text": "Hello World!\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 30, 2026\n\n\nLiam Pattinson\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "pioneers/alan-turing/index.html",
+    "href": "pioneers/alan-turing/index.html",
+    "title": "Alan Turing",
+    "section": "",
+    "text": "Considered in many ways to be the father of modern computing, Turing was a pioneering mathematician and computer scientist who introduced the ‘Turing machine’, formalising the concepts of algorithms and computation. His work as part of the code breaking team at Bletchley Park played a crucial role in deciphering German communications and saving countless allied lives.\nIn 1952, Turing was charged with ‘gross indecency’ under Section 11 of the Criminal Law Amendment Act 1885, and forced to choose between imprisonment and probation under the condition that he undergo ‘chemical castration’. He chose probation, was stripped of his security clearance, and barred from working with GCHQ.\nTuring died of cyanide poisoning in 1954, and his death was deemed a suicide. Though this theory has come under considerable doubt, there is no question that Turing was mistreated by the very state he had admirably served. In recognition of this, the UK government passed the ‘Alan Turing law’ in 2017 to retrospectively pardon those who had been persecuted under homophobic laws.\n\n\n \n\n\n\n\n\nAlan Turing\n\n\nPhoto credit, available under public domain"
   },
   {
     "objectID": "communities.html",
@@ -77,73 +98,52 @@
     "text": "Academics groups\n\n\n\nGroup\nWebsite\nDescription\n\n\n\n\n500 Queer Scientists\nhttps://500queerscientists.com\nA visibility campaign for LGBTQ+ people and their allies working in STEM and STEM-supporting jobs\n\n\nALDER Network\nhttps://www.britishecologicalsociety.org/content/join-the-alder-network\nA network for the LGBTQIA+ ecologist community to interact, share and support each other.\n\n\nNYU Queer Data Lab\nhttps://wp.nyu.edu/queer_data_lab\nQueering and Elevating Empirical Research through Data\n\n\nOut to Innovate\nhttps://www.outtoinnovate.org/home\nOut to Innovate is a professional society and global community of LGBTQ+ students and professionals in science, technology, engineering, and mathematics.\n\n\nQueer, Equality and Diversity (QED) Network for Maths\nhttps://sites.google.com/view/qednetwork/home\nThe QED network is a community-led effort by queer mathematical staff (including PhD students) to connect and support LGBTQIA+ members of the UK mathematics community.\n\n\nSpectra\nhttps://www.lgbtmath.org\nThe Association for LGBT Mathematicians"
   },
   {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "People",
+    "objectID": "links.html",
+    "href": "links.html",
+    "title": "Helpful and fun Links! In no particular order right now",
     "section": "",
-    "text": "Lynn Ann Conway\n\n\nThe mother of modern chip-circuit design practices\n\n\n\n\n\nApr 30, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nAlan Turing\n\n\nThe father of modern computing\n\n\n\n\n\nApr 30, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nSophie Wilson\n\n\nCo-designer for the original ARM processor architecture\n\n\n\n\n\nApr 30, 2026\n\n\n\n\n\nNo matching items"
+    "text": "Helpful and fun Links! In no particular order right now\nHow to customise your R welcome message with the pride flag\nHow to create a pride flag in your terminal prompt\nPronoun Guide\nCode of conduct\nContributing Guide"
   },
   {
-    "objectID": "people/alan-turing/index.html",
-    "href": "people/alan-turing/index.html",
-    "title": "Alan Turing",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Considered in many ways to be the father of modern computing, Turing was a pioneering mathematician and computer scientist who introduced the ‘Turing machine’, formalising the concepts of algorithms and computation. His work as part of the code breaking team at Bletchley Park played a crucial role in deciphering German communications and saving countless allied lives.\nIn 1952, Turing was charged with ‘gross indecency’ under Section 11 of the Criminal Law Amendment Act 1885, and forced to choose between imprisonment and probation under the condition that he undergo ‘chemical castration’. He chose probation, was stripped of his security clearance, and barred from working with GCHQ.\nTuring died of cyanide poisoning in 1954, and his death was deemed a suicide. Though this theory has come under considerable doubt, there is no question that Turing was mistreated by the very state he had admirably served. In recognition of this, the UK government passed the ‘Alan Turing law’ in 2017 to retrospectively pardon those who had been persecuted under homophobic laws.\n\n\n \n\n\n\n\n\nAlan Turing\n\n\nPhoto credit, available under public domain"
+    "text": "Started as a hack-day project at the Sofware Sustainability Institute Collaboration Workshop 2026.\nThis resource was created as a welcoming entry to coding and research software engineering where everyone is welcome.\nWe want to empower community, collaboration, and networking."
   },
   {
-    "objectID": "people/lynn-conway/index.html",
-    "href": "people/lynn-conway/index.html",
-    "title": "Lynn Ann Conway",
+    "objectID": "about.html#a-landing-page-for-lgbtqia-people-interested-in-code-and-research-software-engineering",
+    "href": "about.html#a-landing-page-for-lgbtqia-people-interested-in-code-and-research-software-engineering",
+    "title": "About",
     "section": "",
-    "text": "Lynn Ann Conway was an American computer scientist and electrical engineer (1938–2024) whose technical career included early work at IBM, the University of Michigan and leadership at Xerox PARC. She is highly recognised for her work on generalized dynamic instruction handling, an important precursor to out-of-order execution. With Carver Mead she coauthored “Introduction to VLSI Systems” and helped create the “Mead–Conway Very-Large-Scale-Integration (VLSI) methodology” which democratized chip design and shaped modern microelectronics.\nConway’s faced immense workplace discrimination after revealing her intent to gender transition, which resulted to her being dismissed from IBM in 1968. This had effects on how and when she could claim credit for her work, leading to her having to live much of her professional life quietly under a different identity before coming out publicly in 1999 and documenting her story and resources for others. This experience shaped her later advocacy for transgender people and increased visibility for trans professionals in STEM.\nHer technical and social legacy persists even after her death in 2024: The Mead–Conway methods underpin electronic design automation and VLSI education worldwide. Her public advocacy, mentorship resources and the later formal apology from IBM have contributed to broader recognition of transgender scientists and institutional reckonings with past discrimination. Many engineers and educators trace current chip-design practices and more inclusive cultures in computing back to her influence.\n\n\n \n\n\n\n\n\nLynn Conway\n\n\nPhoto credit, available under public domain"
+    "text": "Started as a hack-day project at the Sofware Sustainability Institute Collaboration Workshop 2026.\nThis resource was created as a welcoming entry to coding and research software engineering where everyone is welcome.\nWe want to empower community, collaboration, and networking."
   },
   {
-    "objectID": "people/sophie-wilson/index.html",
-    "href": "people/sophie-wilson/index.html",
-    "title": "Sophie Wilson",
+    "objectID": "about.html#codes-of-conduct-and-contribution-guide",
+    "href": "about.html#codes-of-conduct-and-contribution-guide",
+    "title": "About",
+    "section": "Codes of Conduct and Contribution guide",
+    "text": "Codes of Conduct and Contribution guide\nCode of conduct\nContributing Guide"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
     "section": "",
-    "text": "Sophie Wilson (born June 1957) is a British computer scientist best known for her central role in creating the BBC Micro computer, and designing the original ARM processor architecture.\nWhile working at Acorn Computers in the late 1970s and 1980s, she helped to develop BBC BASIC. Her work on ARM began as a project to build a fast, efficient processor for Acorn’s computers, but ARM later became the foundation for billions of devices, especially smartphones, tablets, embedded systems, and low-power computers.\nShe has received major recognition for her contributions, including being elected a Fellow of the Royal Society. Her career helped shape both personal computing education and modern mobile computing.\nWilson’s success challenges the idea that LGBTQ+ people, and especially trans people, are marginal to science and engineering. Wilson’s career shows that a trans woman was central to one of the most important technological developments of the late twentieth century.\n\n\n \n\n\n\n\n\nSophie Wilson\n\n\nPhoto credit, available under CC BY 2.0"
+    "text": "Pronoun Guide"
   },
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Posts",
+    "objectID": "resources.html#pronoun-guide",
+    "href": "resources.html#pronoun-guide",
+    "title": "Resources",
     "section": "",
-    "text": "Hello World!\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 30, 2026\n\n\nLiam Pattinson\n\n\n\n\n\nNo matching items"
+    "text": "Pronoun Guide"
   },
   {
-    "objectID": "badges.html",
-    "href": "badges.html",
-    "title": "Badges",
-    "section": "",
-    "text": "The project has created images for reuse by the community. These can be downloaded as either PNG or SVG files."
-  },
-  {
-    "objectID": "badges.html#queer-coded",
-    "href": "badges.html#queer-coded",
-    "title": "Badges",
-    "section": "Queer Coded",
-    "text": "Queer Coded\nUse this image to indicate that your project has been developed by members of the LGBTQ+ community.\n\n\n\n\n\n\nQueer Coded - PNG\n\n\n\n\n \n\n\n\n\n\nQueer Coded - SVG"
-  },
-  {
-    "objectID": "badges.html#coded-with-pride",
-    "href": "badges.html#coded-with-pride",
-    "title": "Badges",
-    "section": "Coded With Pride",
-    "text": "Coded With Pride\nUse this image to demonstrate support for the Coded With Pride project.\n\n\n\n\n\n\nCoded with Pride - PNG\n\n\n\n\n \n\n\n\n\n\nCoded with Pride - SVG"
-  },
-  {
-    "objectID": "posts/hello-world/index.html",
-    "href": "posts/hello-world/index.html",
-    "title": "Hello World!",
-    "section": "",
-    "text": "Welcome to CodedWithPride! This site was envisioned as a place to celebrate the outstanding contributions of LGBTQ+ individuals in the world of coding and technology, and to provide a platform for sharing news, resources, and stories about the people who make it all possible. Queer coders have been here from the start, and continue to make invaluable contributions. I hope this site can help to raise awareness of their work and inspire the next generation to start coding!\nThis project started at the Software Sustainability Institute’s Collaborations Workshop 2026, where I had the opportunity to pitch the idea for the hack day. The response was overwhelmingly positive, winning first prize from the ideas generation session, and I was thrilled to see so many people excited about the project."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome queer coders!",
-    "section": "",
-    "text": "Welcome queer coders!"
+    "objectID": "resources.html#fun-links",
+    "href": "resources.html#fun-links",
+    "title": "Resources",
+    "section": "Fun links",
+    "text": "Fun links\nHow to customise your R welcome message with the pride flag\nHow to create a pride flag in your terminal prompt"
   }
 ]

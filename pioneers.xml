@@ -6,14 +6,14 @@
       version="2.0">
 <channel>
 <title>Coded with Pride</title>
-<link>https://codedwithpride.github.io/people.html</link>
-<atom:link href="https://codedwithpride.github.io/people.xml" rel="self" type="application/rss+xml"/>
+<link>https://codedwithpride.github.io/pioneers.html</link>
+<atom:link href="https://codedwithpride.github.io/pioneers.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.9.37</generator>
 <lastBuildDate>Thu, 30 Apr 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Lynn Ann Conway</title>
-  <link>https://codedwithpride.github.io/people/lynn-conway/</link>
+  <link>https://codedwithpride.github.io/pioneers/lynn-conway/</link>
   <description><![CDATA[ 
 
 
@@ -33,7 +33,7 @@
 <div id="second-column" class="quarto-layout-cell" style="flex-basis: 38.1%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://codedwithpride.github.io/people/lynn-conway/lynn_conway.jpg" class="img-fluid figure-img"></p>
+<p><img src="https://codedwithpride.github.io/pioneers/lynn-conway/lynn_conway.jpg" class="img-fluid figure-img"></p>
 <figcaption>Lynn Conway</figcaption>
 </figure>
 </div>
@@ -45,13 +45,13 @@
 
 
  ]]></description>
-  <guid>https://codedwithpride.github.io/people/lynn-conway/</guid>
+  <guid>https://codedwithpride.github.io/pioneers/lynn-conway/</guid>
   <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
-  <media:content url="https://codedwithpride.github.io/people/lynn-conway/lynn_conway.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://codedwithpride.github.io/pioneers/lynn-conway/lynn_conway.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Alan Turing</title>
-  <link>https://codedwithpride.github.io/people/alan-turing/</link>
+  <link>https://codedwithpride.github.io/pioneers/alan-turing/</link>
   <description><![CDATA[ 
 
 
@@ -71,7 +71,7 @@
 <div id="second-column" class="quarto-layout-cell" style="flex-basis: 38.1%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://codedwithpride.github.io/people/alan-turing/alan_turing.jpg" class="img-fluid figure-img"></p>
+<p><img src="https://codedwithpride.github.io/pioneers/alan-turing/alan_turing.jpg" class="img-fluid figure-img"></p>
 <figcaption>Alan Turing</figcaption>
 </figure>
 </div>
@@ -83,13 +83,13 @@
 
 
  ]]></description>
-  <guid>https://codedwithpride.github.io/people/alan-turing/</guid>
+  <guid>https://codedwithpride.github.io/pioneers/alan-turing/</guid>
   <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
-  <media:content url="https://codedwithpride.github.io/people/alan-turing/alan_turing.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://codedwithpride.github.io/pioneers/alan-turing/alan_turing.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Sophie Wilson</title>
-  <link>https://codedwithpride.github.io/people/sophie-wilson/</link>
+  <link>https://codedwithpride.github.io/pioneers/sophie-wilson/</link>
   <description><![CDATA[ 
 
 
@@ -110,7 +110,7 @@
 <div id="second-column" class="quarto-layout-cell" style="flex-basis: 38.1%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://codedwithpride.github.io/people/sophie-wilson/sophie_wilson.jpg" class="img-fluid figure-img"></p>
+<p><img src="https://codedwithpride.github.io/pioneers/sophie-wilson/sophie_wilson.jpg" class="img-fluid figure-img"></p>
 <figcaption>Sophie Wilson</figcaption>
 </figure>
 </div>
@@ -122,9 +122,9 @@
 
 
  ]]></description>
-  <guid>https://codedwithpride.github.io/people/sophie-wilson/</guid>
+  <guid>https://codedwithpride.github.io/pioneers/sophie-wilson/</guid>
   <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
-  <media:content url="https://codedwithpride.github.io/people/sophie-wilson/sophie_wilson.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://codedwithpride.github.io/pioneers/sophie-wilson/sophie_wilson.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
