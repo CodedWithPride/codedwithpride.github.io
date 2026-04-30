@@ -20,10 +20,10 @@ website:
         href: https://github.com/CodedWithPride
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
+    theme: 
+      light: assets/custom_light.scss
+      dark: assets/custom_dark.scss
+
 
 
 
