@@ -1,5 +1,5 @@
-<a href="codedwithpride.github.io"><img src="https://codedwithpride.github.io/images/queerCoded.svg" width="100"/></a>
-<a href="codedwithpride.github.io"><img src="https://codedwithpride.github.io/images/CodedPride.svg" width="100"/></a>
+<a href="codedwithpride.github.io"><img src="https://codedwithpride.github.io/images/queerCoded.svg" width="150"/></a>
+<a href="codedwithpride.github.io"><img src="https://codedwithpride.github.io/images/CodedPride.svg" width="150"/></a>
 
 # Context / Research Domain
 This project is relevant to current community members within computer science and research software, as well as new people with certain identities that may be interested in joining the community (people currently training, people wanting to make a career shift). 
