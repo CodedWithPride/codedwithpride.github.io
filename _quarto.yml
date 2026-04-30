@@ -1,6 +1,9 @@
 project:
   type: website
 
+execute:
+  freeze: auto
+
 website:
   description: "A blog built with Quarto"
   site-url: https://codedwithpride.github.io # you must change this appropriately for RSS feeds to work properly
