@@ -2,6 +2,39 @@
 title: Alan Turing
 date: 2026-04-30
 draft: false
+image: "alan_turing.jpg"
 ---
 
-This is about Alan Turing
+:::: {layout="[ 60, -5, 40 ]"}
+
+::: {#first-column}
+
+Considered in many ways to be the father of modern computing, Turing was a
+pioneering mathematician and computer scientist who introduced the 'Turing
+machine', formalising the concepts of algorithms and computation. His work as
+part of the code breaking team at Bletchley Park played a crucial role in
+deciphering German communications and saving countless allied lives.
+
+In 1952, Turing was charged with 'gross indecency' under Section 11 of the
+Criminal Law Amendment Act 1885, and forced to choose between imprisonment
+and probation under the condition that he undergo 'chemical castration'.
+He chose probation, was stripped of his security clearance, and barred from
+working with GCHQ. 
+
+Turing died of cyanide poisoning in 1954, and his death was deemed a suicide.
+Though this theory has come under considerable doubt, there is no question that
+Turing was mistreated by the very state he had admirably served. In recognition
+of this, the UK government passed the 'Alan Turing law' in 2017 to retrospectively
+pardon those who had been persecuted under homophobic laws.
+
+:::
+
+::: {#second-column}
+
+![Alan Turing](alan_turing.jpg){width=100%, fig-align=center}
+
+:::
+
+::::
+
+([Photo credit](https://commons.wikimedia.org/wiki/File:Alan_Turing_(1951).jpg), available under public domain)
