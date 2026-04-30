@@ -3,6 +3,7 @@
 title: "Hello World!"
 author: "Liam Pattinson"
 date: "2026-04-30"
+description: "Welcome to CodedWithPride!"
 categories: [news]
 image: "rainbow.gif"
 ---
