@@ -1,5 +1,6 @@
 ---
 title: Communities
+tbl-colwidths: [25,25,50]
 ---
 
 This page contains a list of some of the LGBTQIA+ communities in tech, split into various categories. If you know of any others that should be added to this list, please get in touch!
