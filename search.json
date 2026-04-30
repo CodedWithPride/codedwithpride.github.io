@@ -49,6 +49,27 @@
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
+    "objectID": "badges.html",
+    "href": "badges.html",
+    "title": "Badges",
+    "section": "",
+    "text": "The project has created images for reuse by the community. These can be downloaded as either PNG or SVG files."
+  },
+  {
+    "objectID": "badges.html#queer-coded",
+    "href": "badges.html#queer-coded",
+    "title": "Badges",
+    "section": "Queer Coded",
+    "text": "Queer Coded\nUse this image to indicate that your project has been developed by members of the LGBTQ+ community.\n\n\n\n\n\n\nQueer Coded - PNG\n\n\n\n\n \n\n\n\n\n\nQueer Coded - SVG"
+  },
+  {
+    "objectID": "badges.html#coded-with-pride",
+    "href": "badges.html#coded-with-pride",
+    "title": "Badges",
+    "section": "Coded With Pride",
+    "text": "Coded With Pride\nUse this image to demonstrate support for the Coded With Pride project.\n\n\n\n\n\n\nCoded with Pride - PNG\n\n\n\n\n \n\n\n\n\n\nCoded with Pride - SVG"
+  },
+  {
     "objectID": "posts.html",
     "href": "posts.html",
     "title": "Posts",
