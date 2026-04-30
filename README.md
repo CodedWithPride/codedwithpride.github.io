@@ -1,3 +1,5 @@
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
 <a href="codedwithpride.github.io"><img src="https://codedwithpride.github.io/images/QueerCodedBadge.png" width="150"/></a>
 <a href="codedwithpride.github.io"><img src="https://codedwithpride.github.io/images/CodedPrideBadge.png" width="150"/></a>
 
@@ -9,3 +11,12 @@ The computing community has a historical reputation of being cis-male-dominated 
 
 # Solution
 [Coded with Pride](https://codedwithpride.github.io/) will be a website celebrating the queer history within computing, telling the story from Alan Turing to today. It could sign-post resources for queer people to get involved in the many communities of practice around computing for underrepresented groups (rainbowR, etc) and to other resources/charities that provide support to the queer community. The intersection with other minority groups should also be highlighted, with links to other avenues of support (WHPC, RLadies+).
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
