@@ -8,6 +8,7 @@ website:
   navbar:
     right:
       - posts.qmd
+      - badges.qmd
       - communities.qmd
       - resources.qmd
       - people.qmd
