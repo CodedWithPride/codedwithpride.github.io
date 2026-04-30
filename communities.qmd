@@ -25,5 +25,8 @@ This page contains a list of some of the LGBTQIA+ communities in tech, split int
 | Group | Website | Description |
 | ----------- | ----------- | ----------- |
 | 500 Queer Scientists | <https://500queerscientists.com> | A visibility campaign for LGBTQ+ people and their allies working in STEM and STEM-supporting jobs |
+| ALDER Network | <https://www.britishecologicalsociety.org/content/join-the-alder-network> | A network for the LGBTQIA+ ecologist community to interact, share and support each other. |
 | NYU Queer Data Lab | <https://wp.nyu.edu/queer_data_lab> | Queering and Elevating Empirical Research through Data |
+| Out to Innovate | <https://www.outtoinnovate.org/home> | Out to Innovate is a professional society and global community of LGBTQ+ students and professionals in science, technology, engineering, and mathematics. |
+| Queer, Equality and Diversity (QED) Network for Maths | <https://sites.google.com/view/qednetwork/home> | The QED network is a community-led effort by queer mathematical staff (including PhD students) to connect and support LGBTQIA+ members of the UK mathematics community. |
 | Spectra | <https://www.lgbtmath.org> | The Association for LGBT Mathematicians |
