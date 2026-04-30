@@ -1,5 +1,6 @@
 ---
 title: Alan Turing
+description: The father of modern computing
 date: 2026-04-30
 draft: false
 image: "alan_turing.jpg"

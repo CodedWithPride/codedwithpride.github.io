@@ -1,5 +1,6 @@
 ---
 title: FIRST LAST 
+description: SHORT SENTENCE
 date: last-modified
 draft: true
 image: "PERSON.jpg"
