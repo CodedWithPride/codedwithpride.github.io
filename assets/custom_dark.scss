@@ -142,7 +142,7 @@ $callout-color-important: $red;
 #navbarCollapse > ul > li:nth-child(12) > a:hover,
 #navbarCollapse > ul > li:nth-child(6) > a.nav-link.active,
 #navbarCollapse > ul > li:nth-child(12) > a.nav-link.active {
-  color: $pink;
+  color: $purple;
 }
 
 // animated underline on hover, when navbar shows as row
@@ -190,7 +190,7 @@ $callout-color-important: $red;
 
     .navbar .navbar-nav .nav-item:nth-child(6)::after,
     .navbar .navbar-nav .nav-item:nth-child(12)::after {
-    background-color: $pink;
+    background-color: $purple;
   }
 
   .navbar .navbar-nav .nav-item:hover::after {
