@@ -1,3 +1,6 @@
+[![QueerCoded](https://codedwithpride.github.io/images/queerCoded.svg)](codedwithpride.github.io)
+[![CodedWithPride](https://codedwithpride.github.io/images/CodedPride.svg)](codedwithpride.github.io)
+
 # Context / Research Domain
 This project is relevant to current community members within computer science and research software, as well as new people with certain identities that may be interested in joining the community (people currently training, people wanting to make a career shift). 
 
