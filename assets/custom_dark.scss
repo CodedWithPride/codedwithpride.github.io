@@ -47,7 +47,9 @@ $callout-color-important: $red;
 
 .top-quote {
   font-family: $headings-font-family;
-  font-size: 275%;
+  font-size: 200%;
+  color: $primary;
+  text-align: center;
 }
 
 // icon-links

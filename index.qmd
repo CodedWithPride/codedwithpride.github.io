@@ -1,19 +1,3 @@
----
-title: "About"
-image: profile.jpg
-about:
-  template: jolla
-  links:
-    - icon: bluesky
-      text: Bluesky
-      href: https://bsky.app/
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
-    - icon: github
-      text: Github
-      href: https://github.com
+# [Welcome queer coders!]{.top-quote}
 
----
-
-About this blog
+![](images/pride-computer-oval.png)
