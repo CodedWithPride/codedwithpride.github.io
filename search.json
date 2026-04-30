@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "resources.html",
-    "href": "resources.html",
+    "objectID": "resources.html#pronoun-guide",
+    "href": "resources.html#pronoun-guide",
     "title": "Resources",
-    "section": "",
-    "text": "Esthers organisational links\n\n\nCodes of Conduct and Contribution guide\nCode of conduct\nContributing Guide\n\n\nPronoun Guide\nPronoun Guide\n\n\nFun links\nHow to customise your R welcome message with the pride flag\nHow to create a pride flag in your terminal prompt"
+    "section": "Pronoun Guide",
+    "text": "Pronoun Guide\nPronoun Guide"
+  },
+  {
+    "objectID": "resources.html#fun-links",
+    "href": "resources.html#fun-links",
+    "title": "Resources",
+    "section": "Fun links",
+    "text": "Fun links\nHow to customise your R welcome message with the pride flag\nHow to create a pride flag in your terminal prompt"
   },
   {
     "objectID": "posts/welcome/index.html",
