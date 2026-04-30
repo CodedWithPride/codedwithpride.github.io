@@ -1,4 +1,8 @@
-# Helpful and fun Links!
+# Helpful and fun Links! In no particular order right now 
 [How to customise your R welcome message with the pride flag](https://rainbowr.org/posts/2024-06-15_rstartup/#a-colour-bar-because-we-can)
 
 [How to create a pride flag in your terminal prompt](https://github.com/kgscialdone/prideprompt)
+
+[Pronoun Guide](https://lgbthealth.org.uk/pronouns-guide/)
+
+
