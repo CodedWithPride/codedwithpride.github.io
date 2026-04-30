@@ -1,35 +1,27 @@
 ---
 title: About
+toc: true
 ---
 
 ## A landing page for LGBTQIA+ people interested in code and research software engineering
 
 
 - Started as a hack-day project at the Sofware Sustainability Institute Collaboration Workshop 2026.
-
 - This resource was created as a welcoming entry to coding and research software engineering where everyone is welcome.  
-
 - We want to empower community, collaboration, and networking.
 
-Initial contributors:
+## Initial contributors
 
 - Liam Pattinson
-
 - Ella Kaye
-
 - Aleksandr Kovalenko
-
 - Tobias Burkhard
-
 - Esther Turner
-
 - Steve Irvine
-
 - Samantha Ahern
-
 
 ## Codes of Conduct and Contribution guide
 
-[Code of conduct](https://www.software.ac.uk/training/research-software-camps/code-of-conduct)
+[Code of Conduct](https://www.software.ac.uk/training/research-software-camps/code-of-conduct)
 
 [Contributing Guide](https://contributing.md/)
