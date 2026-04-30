@@ -1,0 +1,25 @@
+
+---
+title: "Hello World!"
+author: "Liam Pattinson"
+date: "2026-04-30"
+categories: [news]
+image: "rainbow.gif"
+---
+
+Welcome to CodedWithPride! This site was envisioned as a place to celebrate
+the outstanding contributions of LGBTQ+ individuals in the world of coding and
+technology, and to provide a platform for sharing news, resources, and stories
+about the people who make it all possible. Queer coders have been here from the
+start, and continue to make invaluable contributions. I hope this site can help
+to raise awareness of their work and inspire the next generation to start
+coding!
+
+This project started at the [Software Sustainability Institute's][SSI]
+[Collaborations Workshop 2026][CW26], where I had the opportunity to pitch the
+idea for the hack day. The response was overwhelmingly positive, winning first
+prize from the ideas generation session, and I was thrilled to see so many
+people excited about the project.
+
+[SSI]: https://www.software.ac.uk/
+[CW26]: https://www.software.ac.uk/workshop/collaborations-workshop-2026-cw26
