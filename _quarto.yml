@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  description: "A blog built with Quarto"
+  site-url: https://codedwithpride.github.io # you must change this appropriately for RSS feeds to work properly
+  title: "Coded with Pride"
+  navbar:
+    right:
+      - posts.qmd
+      - communities.qmd
+      - resources.qmd
+      - people.qmd
+      - about.qmd
+      - icon: github
+        href: https://github.com/CodedWithPride
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+
+
+
