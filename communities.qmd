@@ -1,10 +1,18 @@
 ---
 title: Communities
+toc: true
 ---
 
-This page contains some brief information about some of the LGBTQIA+ communities in tech. These are a living lists and definitely not complete, so if you know of any others that should be added, please get in touch!
+This page contains some brief information about some of the LGBTQIA+ communities in tech. 
 
-## Community Spaces
+::: {.callout-note}
+This is a work-in-progress!
+
+If you know of a community that should be listed here,
+please open an issue or pull request on the [website repo](https://github.com/CodedWithPride/codedwithpride.github.io).
+:::
+
+## Community spaces
 
 | Group | Website | Description |
 | ----------- | ----------- | ----------- |
@@ -13,14 +21,14 @@ This page contains some brief information about some of the LGBTQIA+ communities
 | QueerJS | <https://queerjs.com> | QueerJS is a meetup series where everyone is encouraged to attend and support the speakers and the idea. |
 | rainbowR | <https://rainbowr.org> | Our mission is to connect, support and promote LGBTQ+ people in the R community and to spread awareness of LGBTQ+ issues through data-driven activism |
 
-## Advocacy and Visibility and More Formal Organisations
+## Advocacy and visibility and more formal organisations
 
 | Group | Website | Description |
 | ----------- | ----------- | ----------- |
 | Pride in Stem | <https://prideinstem.org> | Pride in STEM is a charity run by an independent group of LGBTQIA+ scientists & engineers from around the world. Proud of who we are and what we do. We aim to showcase and support all LGBTQIA+ people in STEM fields. |
 | TransTech | <https://transtechsocial.org> | TransTech is an incubator for LGBTQ Talent with a focus on economically empowering the T, transgender people, in our community. TransTech is a co-working, co-learning community dedicated to empowering trans, lesbian, gay, bisexual, queer people and allies with practical, career-ready skills. |
 
-## Academics Groups
+## Academics groups
 
 | Group | Website | Description |
 | ----------- | ----------- | ----------- |
