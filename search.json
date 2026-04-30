@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About",
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
     "section": "",
-    "text": "About this blog"
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code."
+    "text": "Esthers organisational links\n\n\nCodes of Conduct and Contribution guide\nCode of conduct\nContributing Guide\n\n\nPronoun Guide\nPronoun Guide\n\n\nFun links\nHow to customise your R welcome message with the pride flag\nHow to create a pride flag in your terminal prompt"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -21,17 +14,45 @@
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "external-links.html",
-    "href": "external-links.html",
-    "title": "Helpful and fun Links!",
-    "section": "",
-    "text": "Helpful and fun Links!\nHow to customise your R welcome message with the pride flag\nHow to create a pride flag in your terminal prompt"
-  },
-  {
     "objectID": "posts.html",
     "href": "posts.html",
     "title": "Posts",
     "section": "",
     "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 30, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 27, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people/alan-turing/index.html",
+    "href": "people/alan-turing/index.html",
+    "title": "Alan Turing",
+    "section": "",
+    "text": "This is about Alan Turing"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "Alan Turing\n\n\n\n\n\n\n\n\nApr 30, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "links.html",
+    "href": "links.html",
+    "title": "Helpful and fun Links! In no particular order right now",
+    "section": "",
+    "text": "Helpful and fun Links! In no particular order right now\nHow to customise your R welcome message with the pride flag\nHow to create a pride flag in your terminal prompt\nPronoun Guide\nCode of conduct\nContributing Guide"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
   }
 ]

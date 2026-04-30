@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Coded with Pride</title>
+<link>https://codedwithpride.github.io/people.html</link>
+<atom:link href="https://codedwithpride.github.io/people.xml" rel="self" type="application/rss+xml"/>
+<description>A blog built with Quarto</description>
+<generator>quarto-1.9.37</generator>
+<lastBuildDate>Thu, 30 Apr 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Alan Turing</title>
+  <link>https://codedwithpride.github.io/people/alan-turing/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This is about Alan Turing</p>
+
+
+
+ ]]></description>
+  <guid>https://codedwithpride.github.io/people/alan-turing/</guid>
+  <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

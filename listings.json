@@ -5,5 +5,11 @@
       "/posts/post-with-code/index.html",
       "/posts/welcome/index.html"
     ]
+  },
+  {
+    "listing": "/people.html",
+    "items": [
+      "/people/alan-turing/index.html"
+    ]
   }
 ]
