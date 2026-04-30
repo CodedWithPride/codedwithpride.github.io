@@ -2,19 +2,13 @@
 title: Resources
 ---
 
-# Esthers organisational links
+## Esthers organisational links
 
-# Codes of Conduct and Contribution guide
-
-[Code of conduct](https://www.software.ac.uk/training/research-software-camps/code-of-conduct)
-
-[Contributing Guide](https://contributing.md/)
-
-# Pronoun Guide
+## Pronoun Guide
 
 [Pronoun Guide](https://lgbthealth.org.uk/pronouns-guide/)
 
-# Fun links
+## Fun links
 
 [How to customise your R welcome message with the pride flag](https://rainbowr.org/posts/2024-06-15_rstartup/#a-colour-bar-because-we-can)
 
