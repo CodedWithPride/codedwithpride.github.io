@@ -1,5 +1,6 @@
 ---
 title: Lynn Ann Conway
+description: The mother of modern chip-circuit design practices
 date: 2026-04-30
 draft: false
 image: "lynn_conway.jpg"
@@ -9,10 +10,9 @@ image: "lynn_conway.jpg"
 
 ::: {#first-column}
 
-Lynn Ann Conway was an American computer scientist and electrical engineer (1938–2024) whose technical career included 
-early work at IBM, leadership at Xerox PARC and the University of Michigan. 
-She is highly recognised for her work on generalized dynamic instruction handling, an important precursor to out-of-order execution.
-With Carver Mead she coauthored "Introduction to VLSI Systems" and helped create the "Mead–Conway Very-Large-Scale-Integration (VLSI) methodology" that democratized chip design and shaped modern microelectronics. 
+Lynn Ann Conway was an American computer scientist and electrical engineer (1938–2024) whose technical career included early work at IBM, the University of Michigan and leadership at Xerox PARC. 
+She is highly recognised for her work on generalized dynamic instruction handling, an important precursor to out-of-order execution. 
+With Carver Mead she coauthored "Introduction to VLSI Systems" and helped create the "Mead–Conway Very-Large-Scale-Integration (VLSI) methodology" which democratized chip design and shaped modern microelectronics. 
 
 Conway’s faced immense workplace discrimination after revealing her intent to gender transition, which resulted to her being dismissed from IBM in 1968. 
 This had effects on how and when she could claim credit for her work, leading to her having to live much of her professional life quietly under a different identity before coming out publicly in 1999 and documenting her story and resources for others. 
