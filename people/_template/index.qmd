@@ -1,0 +1,22 @@
+---
+title: FIRST LAST 
+date: last-modified
+draft: true
+image: "PERSON.jpg"
+---
+
+:::: {layout="[ 60, -5, 40 ]"}
+
+::: {#first-column}
+TEXT
+:::
+
+::: {#second-column}
+
+![FIRST LAST](PERSON.jpg){width=100%, fig-align=center}
+
+[Photo credit](URL), available under public domain
+:::
+
+::::
+
