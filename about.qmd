@@ -11,6 +11,22 @@ title: About
 
 - We want to empower community, collaboration, and networking.
 
+Initial contributors:
+
+- Liam Pattinson
+
+- Ella Kaye
+
+- Aleksandr Kovalenko
+
+- Tobias Burkhard
+
+- Esther Turner
+
+- Steve Irvine
+
+- Samantha Ahern
+
 
 ## Codes of Conduct and Contribution guide
 
