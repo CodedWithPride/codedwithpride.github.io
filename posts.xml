@@ -12,9 +12,9 @@
 <generator>quarto-1.9.37</generator>
 <lastBuildDate>Thu, 30 Apr 2026 00:00:00 GMT</lastBuildDate>
 <item>
-  <title>Post With Code</title>
-  <dc:creator>Harlow Malloc</dc:creator>
-  <link>https://codedwithpride.github.io/posts/post-with-code/</link>
+  <title>Hello World!</title>
+  <dc:creator>Liam Pattinson</dc:creator>
+  <link>https://codedwithpride.github.io/posts/hello-world/</link>
   <description><![CDATA[ 
 
 
@@ -22,39 +22,16 @@
 
 
 
-<p>This is a post with executable code.</p>
+<p>Welcome to CodedWithPride! This site was envisioned as a place to celebrate the outstanding contributions of LGBTQ+ individuals in the world of coding and technology, and to provide a platform for sharing news, resources, and stories about the people who make it all possible. Queer coders have been here from the start, and continue to make invaluable contributions. I hope this site can help to raise awareness of their work and inspire the next generation to start coding!</p>
+<p>This project started at the <a href="https://www.software.ac.uk/">Software Sustainability Institute’s</a> <a href="https://www.software.ac.uk/workshop/collaborations-workshop-2026-cw26">Collaborations Workshop 2026</a>, where I had the opportunity to pitch the idea for the hack day. The response was overwhelmingly positive, winning first prize from the ideas generation session, and I was thrilled to see so many people excited about the project.</p>
 
 
 
  ]]></description>
   <category>news</category>
-  <category>code</category>
-  <category>analysis</category>
-  <guid>https://codedwithpride.github.io/posts/post-with-code/</guid>
+  <guid>https://codedwithpride.github.io/posts/hello-world/</guid>
   <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
-  <media:content url="https://codedwithpride.github.io/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Welcome To My Blog</title>
-  <dc:creator>Tristan O&#39;Malley</dc:creator>
-  <link>https://codedwithpride.github.io/posts/welcome/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-<p>This is the first post in a Quarto blog. Welcome!</p>
-<p><img src="https://codedwithpride.github.io/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
-<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
-
-
-
- ]]></description>
-  <category>news</category>
-  <guid>https://codedwithpride.github.io/posts/welcome/</guid>
-  <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://codedwithpride.github.io/posts/hello-world/rainbow.gif" medium="image" type="image/gif"/>
 </item>
 </channel>
 </rss>

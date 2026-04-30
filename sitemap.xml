@@ -2,54 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://codedwithpride.github.io/resources.html</loc>
-    <lastmod>2026-04-30T13:22:09.197Z</lastmod>
+    <lastmod>2026-04-30T13:22:32.739Z</lastmod>
   </url>
   <url>
     <loc>https://codedwithpride.github.io/about.html</loc>
-    <lastmod>2026-04-30T13:22:09.192Z</lastmod>
-  </url>
-  <url>
-    <loc>https://codedwithpride.github.io/posts/welcome/index.html</loc>
-    <lastmod>2026-04-30T13:22:09.197Z</lastmod>
-  </url>
-  <url>
-    <loc>https://codedwithpride.github.io/badges.html</loc>
-    <lastmod>2026-04-30T13:22:09.192Z</lastmod>
-  </url>
-  <url>
-    <loc>https://codedwithpride.github.io/posts.html</loc>
-    <lastmod>2026-04-30T13:22:09.196Z</lastmod>
-  </url>
-  <url>
-    <loc>https://codedwithpride.github.io/people/sophie-wilson/index.html</loc>
-    <lastmod>2026-04-30T13:22:09.196Z</lastmod>
-  </url>
-  <url>
-    <loc>https://codedwithpride.github.io/people/lynn-conway/index.html</loc>
-    <lastmod>2026-04-30T13:22:09.195Z</lastmod>
-  </url>
-  <url>
-    <loc>https://codedwithpride.github.io/people/alan-turing/index.html</loc>
-    <lastmod>2026-04-30T13:22:09.195Z</lastmod>
-  </url>
-  <url>
-    <loc>https://codedwithpride.github.io/people.html</loc>
-    <lastmod>2026-04-30T13:22:09.193Z</lastmod>
-  </url>
-  <url>
-    <loc>https://codedwithpride.github.io/communities.html</loc>
-    <lastmod>2026-04-30T13:22:09.192Z</lastmod>
+    <lastmod>2026-04-30T13:22:32.732Z</lastmod>
   </url>
   <url>
     <loc>https://codedwithpride.github.io/links.html</loc>
-    <lastmod>2026-04-30T13:22:09.193Z</lastmod>
+    <lastmod>2026-04-30T13:22:32.734Z</lastmod>
   </url>
   <url>
-    <loc>https://codedwithpride.github.io/posts/post-with-code/index.html</loc>
-    <lastmod>2026-04-30T13:22:09.197Z</lastmod>
+    <loc>https://codedwithpride.github.io/communities.html</loc>
+    <lastmod>2026-04-30T13:22:32.732Z</lastmod>
+  </url>
+  <url>
+    <loc>https://codedwithpride.github.io/people.html</loc>
+    <lastmod>2026-04-30T13:22:32.734Z</lastmod>
+  </url>
+  <url>
+    <loc>https://codedwithpride.github.io/people/alan-turing/index.html</loc>
+    <lastmod>2026-04-30T13:22:32.737Z</lastmod>
+  </url>
+  <url>
+    <loc>https://codedwithpride.github.io/people/lynn-conway/index.html</loc>
+    <lastmod>2026-04-30T13:22:32.737Z</lastmod>
+  </url>
+  <url>
+    <loc>https://codedwithpride.github.io/people/sophie-wilson/index.html</loc>
+    <lastmod>2026-04-30T13:22:32.737Z</lastmod>
+  </url>
+  <url>
+    <loc>https://codedwithpride.github.io/posts.html</loc>
+    <lastmod>2026-04-30T13:22:32.738Z</lastmod>
+  </url>
+  <url>
+    <loc>https://codedwithpride.github.io/badges.html</loc>
+    <lastmod>2026-04-30T13:22:32.732Z</lastmod>
+  </url>
+  <url>
+    <loc>https://codedwithpride.github.io/posts/hello-world/index.html</loc>
+    <lastmod>2026-04-30T13:22:32.738Z</lastmod>
   </url>
   <url>
     <loc>https://codedwithpride.github.io/index.html</loc>
-    <lastmod>2026-04-30T13:22:09.193Z</lastmod>
+    <lastmod>2026-04-30T13:22:32.734Z</lastmod>
   </url>
 </urlset>
