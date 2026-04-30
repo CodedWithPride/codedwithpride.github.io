@@ -10,11 +10,11 @@ website:
   title: "Coded with Pride"
   navbar:
     right:
-      - posts.qmd
-      - badges.qmd
       - communities.qmd
       - resources.qmd
-      - people.qmd
+      - pioneers.qmd
+      - badges.qmd
+      - posts.qmd
       - about.qmd
       - icon: github
         href: https://github.com/CodedWithPride
