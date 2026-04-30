@@ -1,3 +1,19 @@
 ---
 title: Badges
 ---
+
+The project has created images for reuse by the community. These can be downloaded as either PNG or SVG files.
+
+## Coded With Pride
+
+Use this image to demonstrate support for the Coded With Pride project.
+
+![Coded with Pride - PNG](images/CodedPrideBadge.png){width=50%}
+![Coded with Pride - SVG](images/CodedPride.svg){width=50%}
+
+## Queer Coded
+
+Use this image to indicate that your project has been developed by members of the LGBTQ+
+
+![Queer Coded - PNG](images/QueerCodedBadge.png){width=50%}
+![Queer Coded - SVG](images/queerCoded.svg){width=50%}
