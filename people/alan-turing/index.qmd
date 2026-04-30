@@ -5,7 +5,7 @@ draft: false
 image: "alan_turing.jpg"
 ---
 
-:::: {layout="[ 60, 60 ]"}
+:::: {layout="[ 60, -5, 40 ]"}
 
 ::: {#first-column}
 
