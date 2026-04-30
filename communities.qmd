@@ -5,6 +5,7 @@ title: Communities
 This page contains a list of some of the LGBTQIA+ communities in tech, split into various categories. If you know of any others that should be added additions to this list, please get in touch!
 
 ## Community Spaces
+
 | Group | Website | Description |
 | ----------- | ----------- | ----------- |
 | LGBTQ in Technology | https://lgbtq.technology/ | The LGBTQ in Technology Slack is a space for LGBTQ people in technology to chat and support each other. |
@@ -18,8 +19,6 @@ This page contains a list of some of the LGBTQIA+ communities in tech, split int
 | Pride in Stem | https://prideinstem.org/ | Pride in STEM is a charity run by an independent group of LGBTQIA+ scientists & engineers from around the world. Proud of who we are and what we do. We aim to showcase and support all LGBTQIA+ people in STEM fields. |
 | RainbowR | https://rainbowr.org/ | Our mission is to connect, support and promote LGBTQ+ people in the R community and to spread awareness of LGBTQ+ issues through data-driven activism |
 | TransTech | https://transtechsocial.org/ | TransTech is an incubator for LGBTQ Talent with a focus on economically empowering the T, transgender people, in our community. TransTech is a co-working, co-learning community dedicated to empowering trans, lesbian, gay, bisexual, queer people and allies with practical, career-ready skills. |
-
-## Youth Groups
 
 ## Academics Groups
 
